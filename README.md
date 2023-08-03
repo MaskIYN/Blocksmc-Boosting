@@ -1,5 +1,5 @@
 # Blocksmc-Boosting
-
+**JOIN SERVER --> https://discord.gg/S9bhGRnD7V
 names.txt format:
 --> username:password
 replace with your username in config.json
