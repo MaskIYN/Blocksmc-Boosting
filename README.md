@@ -6,12 +6,15 @@ replace with your username in config.json
 
 # COMMANDS
 --------Minecraft--------
+
 /pc leave --> Type left in the party chat, and bots will do /hub
 /pc jfme --> Bots will just jf you (must be friends with bots)
 --------Command Line--------
+
 You can type any other command you want in CMD
 Example: /p join PARTYCODE or /friend add blabla , /pc joavo; like that.
 ----------------
+
 Works best on The Bridge
 only can host around 2 - 4 Bots; too lazy to add proxies...
 ---> updated version after I got some stars 🤩
