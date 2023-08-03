@@ -1,4 +1,4 @@
-// made by sycrest / joavo
+// made by joavo
 // dear skids, kys
 // @uhqb1ns 
 // NOT THE BEST BUT WORKS GOOD
@@ -76,7 +76,7 @@ function createBot(username, password) {
       let text = message;
       if (text.startsWith('PARTY')) {
         if (text.includes('jfme')) {
-          bot.chat('/jf Sycrest'); // you can change name to yours
+          bot.chat('/jf idhoom'); // you can change name to yours
           console.log(`${bot.username} left from the game`);
         }
       }
