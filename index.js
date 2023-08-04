@@ -2,7 +2,7 @@
 // dear skids, kys
 // @uhqb1ns 
 // NOT THE BEST BUT WORKS GOOD
-
+// zadow dont know js, now he is calling me a skid 😔
 
 const mineflayer = require('mineflayer');
 const readline = require('readline');
