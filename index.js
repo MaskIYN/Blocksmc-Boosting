@@ -93,7 +93,7 @@ function createBot(username, password) {
           if (text.startsWith(' TheBridge')) {
             if (text.includes('You are now playing on the BLUE TEAM')) {
               bot.chat('/hub');
-              console.log(`${bot.username} Left The Game : Blue Team!`); //this are just undermaintences too lazy to fiz all of this shits
+              console.log(`${bot.username} Left The Game : Blue Team!`); //this are just undermaintences too lazy to fix all of this shits
             }
           }
         }); 
